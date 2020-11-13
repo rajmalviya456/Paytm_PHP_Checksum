@@ -9,7 +9,7 @@
  * @link       https://developer.paytm.com/docs/checksum/#php
  */
 
-namespace paytm\paytmchecksum;
+namespace rajmalviya456\paytmchecksum;
 
 class PaytmChecksum{
 
